@@ -1,0 +1,212 @@
+[{
+    "CollectionPointName": "PH-AR-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "7530f002-87b7-4aed-98d0-70ca66b536b1",
+    "CollectionPointID": "3b9daab3-010a-4b3f-8e9a-e2494ffcf48d"
+},
+{
+    "CollectionPointName": "PH-AR-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "1f59906f-eb81-437b-81a6-fd0739345e2e",
+    "CollectionPointID": "d675dff5-974f-4f8c-a735-c4ccfd19a034"
+},
+{
+    "CollectionPointName": "PH-AU-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "5339fd24-341a-4604-837e-520bb402caae",
+    "CollectionPointID": "fc0ad0a7-9d01-4343-886f-aecce0e1af16"
+},
+{
+    "CollectionPointName": "PH-AU-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "2ea3d8f2-d0cf-4c4e-968f-722a1978e640",
+    "CollectionPointID": "e0d398ae-0cf2-4cb5-9ba5-0247ef4d31e6"
+},
+{
+    "CollectionPointName": "PH-BO-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "a3d32842-4e1b-4136-8ea8-64568cadf070",
+    "CollectionPointID": "d6fa84c3-0e19-4ef0-bd43-35e635c94305"
+},
+{
+    "CollectionPointName": "PH-BO-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "6caf3b0b-50d9-42a2-9b76-5a009d84a117",
+    "CollectionPointID": "7d68dfb2-9234-4f44-9a30-ea44f0449db1"
+},
+{
+    "CollectionPointName": "PH-BR-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "fd6ddf26-f022-4f10-b2cd-3f705a931456",
+    "CollectionPointID": "825a83a3-847c-4964-9a7d-e5c31249f10e"
+},
+{
+    "CollectionPointName": "PH-BR-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "3558aee8-f0ce-4b15-8502-291408a2a56c",
+    "CollectionPointID": "28a23739-6f02-461c-bf9e-05d54fb8e47b"
+},
+{
+    "CollectionPointName": "PH-DE-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "aeecf5e1-f164-47e4-951f-d6b6b30b669f",
+    "CollectionPointID": "3a3c124d-28e4-4fc5-a370-9e9e3278e506"
+},
+{
+    "CollectionPointName": "PH-DE-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "5d4fa5fa-067d-449d-bb20-bd3440543ef1",
+    "CollectionPointID": "65ac9fc7-5e2e-45ca-aa8d-0c67c05e7aa5"
+},
+{
+    "CollectionPointName": "PH-HK-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "6994e1a1-6fb9-4861-ae09-f66922fefe14",
+    "CollectionPointID": "81f909f8-5bc0-4a8b-b887-0004bcf1c48a"
+},
+{
+    "CollectionPointName": "PH-HK-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "d9904011-745e-4765-8ced-731d44e573a8",
+    "CollectionPointID": "dae113aa-122d-4aad-82aa-c737d4179957"
+},
+{
+    "CollectionPointName": "PH-ID-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "a043856d-65ea-4d75-846e-6641c24a39ac",
+    "CollectionPointID": "5fb01921-6343-4587-9254-9b9830e893a5"
+},
+{
+    "CollectionPointName": "PH-ID-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "be3956ae-de70-4318-b8be-883a3ca4d9b4",
+    "CollectionPointID": "d6a07219-490b-4acf-bdad-05bb56355cd3"
+},
+{
+    "CollectionPointName": "PH-IN-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "1f1effa0-01a0-4d4b-af18-e75d46706c8b",
+    "CollectionPointID": "f02ffbf2-26bb-40a7-97a0-4b3f2c17db9b"
+},
+{
+    "CollectionPointName": "PH-IN-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "0c003e1c-bac7-4799-820d-018fe2a626da",
+    "CollectionPointID": "66aa9dd9-d805-4c95-a929-508981b0c429"
+},
+{
+    "CollectionPointName": "PH-IT-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "56e1406e-f2c0-4b6d-8c9e-f2e483233b44",
+    "CollectionPointID": "1b07ab9f-1b4f-469f-ad1d-5a2602a4c318"
+},
+{
+    "CollectionPointName": "PH-IT-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "ee4eb9fd-ca4a-47ec-ac12-b287758081be",
+    "CollectionPointID": "5a4f6750-2e18-4279-a33b-7d44030d7263"
+},
+{
+    "CollectionPointName": "PH-MX-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "20884bcb-fc47-48ca-bd60-1afea12b42f9",
+    "CollectionPointID": "12c1e0ba-3ac8-4d05-ac5c-10dc07a1c3d8"
+},
+{
+    "CollectionPointName": "PH-MX-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "99df8ee0-1225-4729-ab02-61b6ab245aa4",
+    "CollectionPointID": "d7d51449-12a7-4d8f-acce-d9020e22f484"
+},
+{
+    "CollectionPointName": "PH-MY-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "18882821-e01e-43ca-84f9-c9a91a617776",
+    "CollectionPointID": "1633c07d-4cb7-463b-b666-e9ed8a4ba074"
+},
+{
+    "CollectionPointName": "PH-MY-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "ae709965-1497-4b34-91f5-5cdf63840c3f",
+    "CollectionPointID": "bc3e5541-a924-4d84-b806-b0e4aa896d27"
+},
+{
+    "CollectionPointName": "PH-NZ-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "7f362877-b4f3-44c3-8b41-9f6eba3bd42b",
+    "CollectionPointID": "e1249e1b-e3b9-4bf2-aa6c-142cf9f6bd70"
+},
+{
+    "CollectionPointName": "PH-NZ-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "eb7c1fa1-0a76-4931-9b17-bf91da47c3a0",
+    "CollectionPointID": "1f1f8aaa-3b1b-4e22-9df2-f9460a69d5ee"
+},
+{
+    "CollectionPointName": "PH-PA-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "aae7bef3-27a0-4687-8c1c-eb5c71cc4c4a",
+    "CollectionPointID": "8af81c11-1548-4fa8-81c0-6c098ead76cd"
+},
+{
+    "CollectionPointName": "PH-PA-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "62f66104-9e2f-40da-a45f-1c8194bf2406",
+    "CollectionPointID": "c1936c35-4990-4766-ae31-45c052c5da31"
+},
+{
+    "CollectionPointName": "PH-PH-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "344d187d-4ecc-4ecb-bd31-c1ada0333b51",
+    "CollectionPointID": "3e387e73-56ca-42e8-8dcf-07ac5e52b136"
+},
+{
+    "CollectionPointName": "PH-PH-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "66726154-969b-4479-a998-56773c8b472f",
+    "CollectionPointID": "78425fca-599b-4400-8988-2fb427e2489c"
+},
+{
+    "CollectionPointName": "PH-PK-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "b430892b-faef-454b-bc40-e4c518db19b9",
+    "CollectionPointID": "6f2fd084-91a8-4051-af17-77e57c9a1756"
+},
+{
+    "CollectionPointName": "PH-PK-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "e33b5127-0319-4942-933d-4f6e97d55827",
+    "CollectionPointID": "204d5440-bca7-4c75-9c26-2139b4b1e122"
+},
+{
+    "CollectionPointName": "PH-PL-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "a01803bf-f005-47ca-9bd7-df8bde3d25d4",
+    "CollectionPointID": "f14526ac-2f94-4baf-8529-e55584f0288c"
+},
+{
+    "CollectionPointName": "PH-PL-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "03287805-e20a-40cb-8efe-d30a14458d33",
+    "CollectionPointID": "97403f11-4bfc-4b64-b343-5062f8e3a6c8"
+},
+{
+    "CollectionPointName": "PH-PT-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "55a1df43-82d2-4e33-bba4-a2238b7db869",
+    "CollectionPointID": "ef2980fd-aaf0-4ee0-8ad7-3149c61dc8e7"
+},
+{
+    "CollectionPointName": "PH-PT-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "93d4ea8c-528d-4f6b-b5d0-e4211827b11c",
+    "CollectionPointID": "72be1be6-dc8f-47d3-9743-23a23ac29e3b"
+},
+{
+    "CollectionPointName": "PH-SG-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "1fa94caa-280a-44b2-b071-648bfb9e84cc",
+    "CollectionPointID": "df87a1c9-18ef-4853-bc67-e31e36932b25"
+},
+{
+    "CollectionPointName": "PH-SG-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "7cfd77bd-6c3a-404c-8563-5d78eba8efb1",
+    "CollectionPointID": "8c87cf02-5a64-4427-a892-7a7a358a1ff2"
+},
+{
+    "CollectionPointName": "PH-UY-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "a654952c-46c2-4f17-9788-4fa440fba6da",
+    "CollectionPointID": "a1b0f89d-945e-4047-8e72-5c0e70bb86c0"
+},
+{
+    "CollectionPointName": "PH-UY-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "f0e16785-9855-489e-ac3c-1b5185e35ec3",
+    "CollectionPointID": "2953d909-caf5-4958-b318-46fe9667b996"
+},
+{
+    "CollectionPointName": "PH-VN-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "e95ce437-dbe7-468e-a954-b3e99d05db6f",
+    "CollectionPointID": "450a190e-77c0-4f8e-b74e-92afbfb97b8b"
+},
+{
+    "CollectionPointName": "PH-VN-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "178c433c-47b7-405d-a06e-c078febdfc1d",
+    "CollectionPointID": "3fd85bb2-25b1-4bff-b329-77bdb7711915"
+},
+{
+    "CollectionPointName": "PH-CL-APP-COCO-IMCM-ECOMMUNICATION",
+    "PreferenceCenterID": "b394bb2f-f6b4-4d11-aa29-db68e35ae41b",
+    "CollectionPointID": "1956fc32-b2c6-46ef-b255-4f0714a6e690"
+},
+{
+    "CollectionPointName": "PH-CL-APP-COCO-IMCM-PRIVACYSTATEMENT",
+    "PreferenceCenterID": "d2cea5ea-a2ad-4cc3-9ee5-608f2f597962",
+    "CollectionPointID": "5cd5270c-b0d6-466f-8b51-634c6c8dd5e4"
+}
+]
+
