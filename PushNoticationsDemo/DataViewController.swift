@@ -9,6 +9,7 @@ class DataViewController: UIViewController {
        //test(name: nil)
         print("hello")
         print("any thing")
+        print("this for tash")
         // Do any additional setup after loading the view.
     }
 
