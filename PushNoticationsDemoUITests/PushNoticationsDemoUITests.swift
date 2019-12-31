@@ -1,10 +1,4 @@
-//
-//  PushNoticationsDemoUITests.swift
-//  PushNoticationsDemoUITests
-//
-//  Created by Sudhakar on 23/12/19.
-//  Copyright © 2019 Bayer. All rights reserved.
-//
+
 
 import XCTest
 

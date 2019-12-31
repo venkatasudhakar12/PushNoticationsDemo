@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  PushNoticationsDemo
-//
-//  Created by Sudhakar on 20/12/19.
-//  Copyright © 2019 Bayer. All rights reserved.
-//
 
 import UIKit
 import UserNotifications
