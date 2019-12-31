@@ -19,6 +19,7 @@ class TimerApplication:UIApplication {
         NotificationCenter.default.post(name: NSNotification.Name.timeOut, object: nil)
     }
     override func sendEvent(_ event: UIEvent) {
+        print("sendEvent")
         super.sendEvent(event)
         if idleTimer != nil {
             self.resetIdleTimer()
