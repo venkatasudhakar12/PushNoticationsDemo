@@ -8,6 +8,7 @@ class DataViewController: UIViewController {
         super.viewDidLoad()
        //test(name: nil)
         print("hello")
+        print("any thing")
         // Do any additional setup after loading the view.
     }
 
