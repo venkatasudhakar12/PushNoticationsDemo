@@ -1,16 +1,57 @@
 
 import UIKit
 
-
+class Diamens{
+    var l,b:Int
+    init(l:Int,b:Int) {
+        self.l = l
+        self.b = b
+    }
+    var area:Int{
+        get{
+            return l*b
+        }
+        set{
+            l = newValue/b
+            b = newValue/l
+        }
+    }
+    lazy var name = "welcome"
+    lazy var test:String = {
+       return "diamens"
+    }()
+     var test2:String = {
+       return "diamens"
+    }()
+}
+class Employee {
+    var id:Int
+    init(id:Int) {
+        self.id = id
+    }
+}
 class DataViewController: UIViewController {
-
+ 
+    var emp : Employee? {
+        didSet{
+            print("called after set a value")
+            if let id = emp?.id{
+                print("new id :\(id) and old id \(oldValue?.id)")
+            }
+        }
+        willSet{
+            print("called before set a value")
+            if let id = emp?.id{
+                print("new id: \(newValue?.id)")
+            }
+        }
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-       //test(name: nil)
-        print("hello")
-        print("any thing")
-        print("this for tash")
-        // Do any additional setup after loading the view.
+        self.emp = Employee(id: 10)
+        self.emp?.id = 20
+        print(emp?.id)
     }
 
     func test(name:String?) {
@@ -148,7 +189,7 @@ struct Queue<T>:CustomStringConvertible{
         return items.map{"\($0)"}.joined(separator: ",")
     }
 }
-class Human {
+class Human1 {
     var fname:String
     var lname:String
     //lazy var email:String

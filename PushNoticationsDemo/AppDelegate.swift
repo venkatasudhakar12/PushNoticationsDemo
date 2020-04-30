@@ -12,7 +12,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         prepareForPushnotifications(for: application)
         // Override point for customization after application launch.
        // let timer = UserInterractionSetup()
-
+      
         return true
     }
 
@@ -59,3 +59,31 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 }
 
+class LivingBeing{
+    var age:Int?
+    init(age:Int?) {
+        if let age = age{
+            self.age=age
+        }
+    }
+}
+
+class Animal:LivingBeing{
+    var type:String?
+    init(age:Int?,type:String?) {
+        if let type = type{
+            self.type=type
+        }
+        super.init(age: age ?? 0)
+    }
+}
+
+class Human:LivingBeing{
+    var name:String?
+    init(age:Int?,name:String?) {
+        if let name = name{
+            self.name=name
+        }
+        super.init(age: age ?? 0)
+    }
+}
